@@ -36,14 +36,6 @@ const projects = [
     visual: 'stardust',
   },
   {
-    number: '0',
-    title: 'Stardust Mirror Protocol',
-    category: 'CTF · Cybersecurity',
-    description: 'A cybersecurity challenge website built around traces, hidden details, and a mysterious protocol.',
-    url: 'https://stardust-mirror-protocol.onrender.com',
-    visual: 'stardust',
-  },
-  {
     number: '04',
     title: 'The University Guide',
     category: 'Student utility · Data',
@@ -64,6 +56,7 @@ const projects = [
     title: 'UpNext',
     category: 'In development · Coming soon',
     description: 'I’m currently working on UpNext. More details will be shared soon.',
+    url: "https://cryzic-upnext.vercel.app",
     visual: 'upnext',
   },
 ]
